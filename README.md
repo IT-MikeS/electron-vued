@@ -2,18 +2,15 @@
 
 ## Project setup
 ```
-npm install
+Clone this repo
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm run dev-run
 ```
 
-### Compiles and minifies for production
+### Run in production
 ```
-npm run build
+npm run prod-run
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
